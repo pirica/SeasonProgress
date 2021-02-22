@@ -1,3 +1,3 @@
-# SeasonProgress
-Automatically post different game's season progress onto Twitter
-![Banner](/.github/banner.png) ![Banner](/.github/banner.png)
+[![Overview-Button](/Assets/logo.png)](https://github.com/thomaskeig/SeasonProgress)
+![Overview-Button](/Assets/buttons/overview-clicked.png) [![FAQ-Button]
+![Banner](/.github/banner.png)
