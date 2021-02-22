@@ -1,5 +1,2 @@
-![Readme](/Assets/banner.png)
-
-<a href="https://starchart.cc/thomaskeig/SeasonProgress.svg">
-  <img src="https://starchart.cc/thomaskeig/SeasonProgress.svg">
-</a>
+![README](/Assets/banner.png)
+![Stargazers over time](https://starchart.cc/caarlos0/starcharts.svg)
