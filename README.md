@@ -1,2 +1,2 @@
 ![README](/Assets/banner.png)
-![Stargazers over time](https://starchart.cc/caarlos0/starcharts.svg)
+![Stargazers over time](https://starchart.cc/thomaskeig/SeasonProgress.svg)
